@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    
+   height: 100px;
+   border-bottom: 3px solid rgb(224, 103, 22) ;
+
+}
+.logo{
+   
+    float: left;
+}
+.logo h1{
+    float: right;
+    margin-left: 8px;
+    margin-top: 32px;
+    font-size: 32px;
+    font-weight: 24px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+.logo img{
+    margin-top: 7px;
+    
+}
+.buttons{
+    
+    float: right;
+margin-top: 36px;
+
+}
+.btn{
+    color: white;
+    background-color: rgb(224, 103, 22) ;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    margin-right: 8px;
+}
+aside{
+    margin: 70px;
+    width: 60%;
+}
+
+.card1{
+    width: 250px;
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px rgb(177, 174, 174);
+    float: left;
+    
+    margin: 0 30px 30px 0;
+}
+.card1 img{
+    width: 100%;
+    height: 300px;
+    
+
+}
+.card1 p{
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.social{
+    border: 2px solid rgb(224, 103, 22);
+    border-radius: 10px;
+    margin-right: 25px;
+    margin-left: 1000px;
+    
+   
+    text-align: center;
+    padding: 20px;
+
+
+}
+.social h2{
+    font-size: 30px;
+}
+.social img{
+    margin-right: 8px;
+} 
+
+
